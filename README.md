@@ -1,6 +1,11 @@
 # QuillQuest
 QuillQuest is a full-stack web application that serves as a captivating blog-site, offering a rich reading experience and a platform for passionate writers to share their stories.
 
+![Screenshot 2024-06-15 at 3 10 09 AM](https://github.com/DivyanshiSharma07/QuillQuest/assets/127393402/87e56329-4e26-40ca-880d-eda8718b4190)
+![Screenshot 2024-06-15 at 3 10 15 AM](https://github.com/DivyanshiSharma07/QuillQuest/assets/127393402/66603dbe-8eaa-4a74-a0c9-38d56a5762cd)
+![Screenshot 2024-06-15 at 3 10 34 AM](https://github.com/DivyanshiSharma07/QuillQuest/assets/127393402/12843626-d26a-4870-9f76-818c22ece5b3)
+![Screenshot 2024-06-15 at 3 10 42 AM](https://github.com/DivyanshiSharma07/QuillQuest/assets/127393402/0f2a5020-433b-47af-b3a0-f2b1fbbebca8)
+
 ## Features
 - Responsive Design: QuillQuest is built with a responsive design approach, ensuring a seamless and visually appealing experience across different devices and screen sizes.
 - Blog Creation: Unleash your creativity by composing and publishing your own blog posts using an intuitive text editor. Express your thoughts, share your experiences, and captivate readers with your unique writing style.
